@@ -1,0 +1,27 @@
+{
+  "name": "@elasticms/hash-file",
+  "version": "1.0.3",
+  "description": "Compute file's hash with callback function ini order to provide user feedback",
+  "main": "HashFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ems-project/hash-file.git"
+  },
+  "keywords": [
+    "elasticms",
+    "hash",
+    "file"
+  ],
+  "author": "Mathieu De Keyzer <mathieu@dekeyzer.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ems-project/hash-file/issues"
+  },
+  "homepage": "https://github.com/ems-project/hash-file#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
